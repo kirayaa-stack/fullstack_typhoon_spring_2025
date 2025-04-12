@@ -20,4 +20,5 @@ print(is_student
 print(is_adult)
 print("My name is " + first_name + " " + last_name + "." + "I'm 22 years old" )
 print(str(age) + "years old")
-print(f"Ner:{first_name} Ovog: {last_name} Nas: {age} Mergejil: {major} Hiih durtai zuil:{hobbies})
+print(f"Ner:{first_name} Ovog: {last_name} Nas: {age} Mergejil: {major} Hiih durtai zuil:{hobbies}
+      
