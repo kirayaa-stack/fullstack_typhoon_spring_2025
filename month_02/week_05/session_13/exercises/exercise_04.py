@@ -5,4 +5,3 @@ with open('students.csv', 'r') as file:
     
 
 average_grades = ("")
-average_grades = ("")
