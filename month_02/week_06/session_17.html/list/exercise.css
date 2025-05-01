@@ -1,0 +1,57 @@
+.biology{
+    list-style-type: circle;
+}
+.chemical{
+    list-style-type: circle;
+}
+.math{
+    list-style-type: circle;
+}
+.aot{
+    list-style-type: lower-roman;
+}
+.bleach{
+    list-style-type: upper-latin;
+}
+.nana{
+    list-style-type: lower-greek;
+}
+.apple{
+    list-style-type: lower-alpha;
+}
+.banana{
+    list-style-type: upper-alpha;
+}
+.mango{
+    list-style-type: lower-greek;
+}
+.strawberry{
+    list-style-type: lower-alpha;
+}
+.watermelon{
+    list-style-type: upper-latin;
+}
+.guitar{
+    list-style-image: url(./star.png);
+}
+.violin{
+    margin: 10px;
+}
+.pickles{
+    list-style-type: square;
+}
+.carrot{
+    list-style-type: square;
+}
+.mango{
+    list-style-type: square;
+}
+.zim{
+    list-style-type: square;
+}
+.curd{
+    list-style-type: square;
+}
+.class{
+    list-style-type: square;
+}
