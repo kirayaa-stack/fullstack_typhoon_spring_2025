@@ -1,0 +1,55 @@
+main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    background-color: #FFF;
+    width: 1440px;
+    height: 86px;
+    flex-shrink: 0;
+    justify-content: space-around;
+    position: fixed;
+}
+@font-face {
+    font-family: Moul;
+    src: url(./Moul-Regular.ttf);
+}
+.data{
+    font-family: Moul;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400px;
+    line-height: normal;
+}
+@font-face {
+    font-family: Lato;
+    src: url(./Lato-Regular.ttf);
+}
+.head{
+    text-decoration: none;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600px;
+    line-height: normal;
+}
+.Sign{
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 600px;
+    text-decoration: underline;
+    text-decoration: solid;
+    text-decoration-skip-ink:none;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: auto;
+    background-color: #4bab66;
+    border-radius: 8px;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}

@@ -41,3 +41,10 @@
 .shadow3{
     box-shadow: 5px 5px 5px 5px grey;
 }
+.tet6{
+    background-color: aqua;
+    width: 250px;
+    height: 50px;
+    overflow-x: scroll;
+    overflow: hidden;
+}
